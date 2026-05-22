@@ -1,11 +1,11 @@
 import React from "react";
-import About from "./component/About/About.jsx";
-import Contact from "./component/Contact/Contact.jsx";
-import Education from "./component/Education/Education.jsx";
-import Home from "./component/Home/Home.jsx";
-import NavBar from "./component/NavBar/NavBar.jsx";
-import Projects from "./component/Projects/Projects.jsx";
-import Skills from "./component/Skills/Skills.jsx";
+import About from "./Component/About/About.jsx";
+import Contact from "./Component/Contact/Contact.jsx";
+import Education from "./Component/Education/Education.jsx";
+import Home from "./Component/Home/Home.jsx";
+import NavBar from "./Component/NavBar/NavBar.jsx";
+import Projects from "./Component/Projects/Projects.jsx";
+import Skills from "./Component/Skills/Skills.jsx";
 
 function App() {
   return (
