@@ -1,7 +1,7 @@
 import React from "react";
 import avatarImg from "../../assets/image.png";
 import TextChange from "../TextChange";
-import CV from "../../assets/Sunkari_Praveen(resume).pdf";
+import CV from "../../assets/Sunkari_Ramesh(resume).pdf";
 import { BsDownload } from "react-icons/bs";
 
 const Home = () => {
