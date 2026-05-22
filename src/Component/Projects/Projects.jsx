@@ -18,13 +18,13 @@ const Projects = () => {
         <ProjectCard
           title="Myntra Clone"
           main="This is a E-commerce website created in ReactJs and uses component libraries to make a fully functional Myntra clone."
-          repoLink=""
+          repoLink="https://github.com/sunkariramesh8814/online.git"
           image={myntraCloneImage}
         />
         <ProjectCard
           title="Portfolio Website"
           main="This is a blogging website created in ReactJs and uses component libraries to showcase my skills and information about me."
-          repoLink=""
+          repoLink="https://github.com/sunkariramesh8814/My-portfolio.git"
           image={portfolioImage}
         />
       </div>
