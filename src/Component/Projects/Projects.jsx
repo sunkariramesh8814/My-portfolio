@@ -10,12 +10,6 @@ const Projects = () => {
       <h1 className="text-2xl md:text-4xl text-white font-bold">Projects</h1>
       <div className="py-12 px-8 flex flex-wrap gap-5">
         <ProjectCard
-          title="Bookstore Management System"
-          main="This is an E-commerce website built using Java to manage bookstore operations."
-          repoLink="https://github.com/Sunkariramesh8814/bookstore-management"
-          image={bookstoreImage}
-        />
-        <ProjectCard
           title="Myntra Clone"
           main="This is a E-commerce website created in ReactJs and uses component libraries to make a fully functional Myntra clone."
           repoLink="https://github.com/sunkariramesh8814/online.git"
@@ -26,6 +20,12 @@ const Projects = () => {
           main="This is a blogging website created in ReactJs and uses component libraries to showcase my skills and information about me."
           repoLink="https://github.com/sunkariramesh8814/My-portfolio.git"
           image={portfolioImage}
+        />
+        <ProjectCard
+          title="Bookstore Management System"
+          main="This is an E-commerce website built using Java to manage bookstore operations."
+          repoLink="https://github.com/Sunkariramesh8814/bookstore-management"
+          image={bookstoreImage}
         />
       </div>
     </div>
